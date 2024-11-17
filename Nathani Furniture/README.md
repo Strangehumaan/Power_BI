@@ -19,7 +19,7 @@ This repository contains the Power BI project for analyzing sales and margin per
 ## How to Use
 1. Clone the repository:
    ```bash
-   git https://github.com/Strangehumaan/Power_BI
+   git clone https://github.com/Strangehumaan/Power_BI
    ```
 2. Open the `.pbit` file using Power BI Desktop.
 3. Connect to your data source and update the fields if required.
