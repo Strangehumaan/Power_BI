@@ -35,9 +35,5 @@ This repository is continually evolving. If you'd like to contribute:
 
 ## Contact
 For questions or suggestions, feel free to reach out:
-- **[Mohammad Saad Nathani]**
 - **[saadnathani2005@gmail.com]**
 
-
-
-This keeps it open-ended and easy to maintain as you continue to add projects over time. Let me know if you want any further refinements!
