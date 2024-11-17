@@ -14,12 +14,12 @@ This repository contains the Power BI project for analyzing sales and margin per
   - Sales by Region, Product, and Salesperson
   - Monthly and Quarterly performance trends
 - Visual representations through:
-  - Line charts, bar charts, pie charts, and KPIs.
+  - Line charts, bar charts and pie charts.
 
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git https://github.com/Strangehumaan/Power_BI
    ```
 2. Open the `.pbit` file using Power BI Desktop.
 3. Connect to your data source and update the fields if required.
